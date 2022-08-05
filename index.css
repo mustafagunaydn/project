@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(65, 55, 55);
+    color: aquamarine;
+}
+
+#id1 {
+    margin-left: 80px;
+    width: 350px;;
+    height: 260px;
+    /* position: absolute; */
+}
+
+#id2 {
+/* margin: auto; */
+height: 260px;
+width: 350px;
+}
+
+#id3 {
+/* margin-left: 10px; */
+height: 260px;
+width: 350px;
+}
+
+#id4 {
+/* margin-left: 60px; */
+height: 260px;
+width: 350px;
+}
+
+#id5 {
+/* margin-left: 60px; */
+width: 350px;
+height: 260px;
+}
